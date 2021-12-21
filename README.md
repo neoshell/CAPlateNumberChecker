@@ -1,5 +1,5 @@
-# CA Plate Number Checker
-A script for checking the availability of CA special interest license plate number
+# California Vehicle Plate Number Checker
+A script for checking the availability of California special interest license plate number
 
 ## Requirements
 * python 3+
